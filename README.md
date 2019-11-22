@@ -1,2 +1,2 @@
-# WeiboInformationAccesstor
-OCR based user profile collector
+# OCRInformationAccesstor
+OCR based OSNs user profile collector
