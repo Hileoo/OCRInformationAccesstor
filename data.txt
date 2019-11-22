@@ -1,0 +1,4 @@
+User number: 1基本信息 
+账号信息:
+昵称 EXAMPLE_NAME 备注 EXAMPLE_NOTE 简介 DESCRIPTION 等级 EXAMPLE_LV 注册时间1970-01-01 阳光信用信用较好 
+个人信息:性别 男 生日 1995-12-05射手座 所在地 Location 家乡 Hometown 
